@@ -1,5 +1,7 @@
 <%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="Turkey.aspx.cs" Inherits="Map_Turkey.Turkey" %>
 
+//Çalıştırınca hata alıyor
+
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
     <%--<link href="/style/svg-turkiye-haritasi.css" rel="stylesheet" />--%>
     <link href="css/svg-turkiye-haritasi.css" rel="stylesheet" />
