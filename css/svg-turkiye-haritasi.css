@@ -16,11 +16,11 @@
     display:none;
 }
 
-    .svg-turkiye-haritasi svg,.svg-turkiye-haritasi2 svg  {
-        width: 100%;
-        height: auto;
-        /*viewBox:0 0 1007.478 527.323;*/
-    }
+.svg-turkiye-haritasi svg,.svg-turkiye-haritasi2 svg  {
+    width: 100%;
+    height: auto;
+    /*viewBox:0 0 1007.478 527.323;*/
+}
 
 .svg-turkiye-haritasi path, .svg-turkiye-haritasi2 path {
     cursor: default;
